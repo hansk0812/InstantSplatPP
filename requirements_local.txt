@@ -1,0 +1,13 @@
+scikit-learn
+matplotlib
+tqdm
+markupsafe
+Pillow
+click
+plotly
+sympy
+jinja2
+importlib_metadata
+pyyaml
+pytz
+requests
