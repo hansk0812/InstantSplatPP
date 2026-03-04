@@ -11,3 +11,8 @@ importlib_metadata
 pyyaml
 pytz
 requests
+colorama
+pygments
+asttokens
+imageio
+lz4
