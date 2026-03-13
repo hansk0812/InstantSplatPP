@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+imageio==2.9.0
+imageio-ffmpeg
+matplotlib
+opencv-python
+pillow
+scikit-image
+scipy
+tensorboard==2.9.1
